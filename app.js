@@ -21,20 +21,20 @@
 
 
 // Question No 04;
-var bakery = ["Apple","Banana","Cake","Pastry","Pineapple","Grapes"];
+// var bakery = ["Apple","Banana","Cake","Pastry","Pineapple","Grapes"];
 
-var bak = prompt("Enter Item name with First letter must be Capital");
+// var bak = prompt("Enter Item name with First letter must be Capital");
 
-var match = "NO";
+// var match = "NO";
 
-for(var i = 0; i < bakery.length; i++){
-    if(bakery[i] === bak){
-        match = "YES"
-        alert ("Congratulation " + bakery[i]+" is Availabe");
-        break
-    }
-}
+// for(var i = 0; i < bakery.length; i++){
+//     if(bakery[i] === bak){
+//         match = "YES"
+//         alert ("Congratulation " + bakery[i]+" is Availabe");
+//         break
+//     }
+// }
 
-if(match === "NO"){
-    alert("Sorry!!! This Item is not found")
-};
+// if(match === "NO"){
+//     alert("Sorry!!! This Item is not found")
+// };
