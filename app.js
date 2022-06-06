@@ -38,3 +38,44 @@
 // if(match === "NO"){
 //     alert("Sorry!!! This Item is not found")
 // };
+
+// Question No 05;
+// var multiDimension = [[0,1],[2,3],[1,0],[1,2],[2,1],[0,1]];
+
+// for(var i = 0; i < multiDimension.length; i++){
+//     console.log(multiDimension[i]);
+// };
+
+// Question No 06;
+// var multiDimension1 = [[],[],[],[],[],[]];
+// for(var i = 0; i < multiDimension1.length; i++){
+//     console.log(multiDimension1[i]);
+// }
+
+// Question No 07;
+// var number = [24,53,78,91,12];
+// var largest = 0;
+
+// for(var i = 0; i < number.length; i++){
+//     if(largest < number[i]){
+//         largest = number[i];
+//     }
+// }
+// console.log(largest);
+
+// Question No 08;
+// var number1 = [24,53,78,91,12];
+// var smallest = 12;
+
+// for(var i = 1; i > number1.length; i++){
+//     if(smallest > number1[i]){
+//         smallest = number1[i];
+//     }
+// }
+// console.log(smallest);
+
+// Question No 09;
+// var number3 = 5;
+// for(var i = 1; i <= 20; i++){
+//     console.log(number3*i);
+// };
