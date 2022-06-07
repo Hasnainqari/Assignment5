@@ -65,9 +65,9 @@
 
 // Question No 08;
 // var number1 = [24,53,78,91,12];
-// var smallest = 12;
+// var smallest = number1 [0];
 
-// for(var i = 1; i > number1.length; i++){
+// for(var i = 0; i < number1.length; i++){
 //     if(smallest > number1[i]){
 //         smallest = number1[i];
 //     }
